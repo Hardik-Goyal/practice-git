@@ -1,3 +1,3 @@
 # practice-git
-Here you can make a pull request for me to accept. I surely will do so
-In return I'll send you my request so do accept the same.
+
+>This repository requires you to add a new file of code in any language (preferrably C++ or Python) for your pull request to be accepted..
